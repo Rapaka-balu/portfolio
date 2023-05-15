@@ -318,7 +318,7 @@ gap: 120px;
 .project-card{
 width: 90%;
 height: 550px;
-background-image: url(assets/Project1.png);
+background-image: url(Project1.png);
 background-size: cover;
 position: relative;
 box-shadow: 0px 0px 40px #1f1f1f;
@@ -439,18 +439,18 @@ transform: scale(1.1);
 
 #project1{
 
-background-image: url(assets/Project1.png);
+background-image: url(Project1.png);
 }
 #project2{
 margin-left: 120px;
-background-image: url(assets/Project2.png);
+background-image: url(Project2.png);
 }
 #project3{
-background-image: url(assets/Project3.png);
+background-image: url(Project3.png);
 }
 #project4{
 margin-left: 120px;
-background-image: url(assets/Project4.png);
+background-image: url(Project4.png);
 }
 
 .skill-container{
