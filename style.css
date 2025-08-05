@@ -318,7 +318,7 @@ gap: 120px;
 .project-card{
 width: 90%;
 height: 550px;
-background-image: url(Spotify API.jpg);
+background-image: url(spotify.png);
 background-size: cover;
 position: relative;
 box-shadow: 0px 0px 40px #1f1f1f;
@@ -439,7 +439,7 @@ transform: scale(1.1);
 
 #project1{
 
-background-image: url(Spotify API.jpg);
+background-image: url(spotify.png);
 }
 #project2{
 margin-left: 120px;
@@ -656,6 +656,7 @@ display: flex;
 gap: 1rem;
 
 }
+
 
 
 
